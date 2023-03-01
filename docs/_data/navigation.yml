@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Documentation Units"
+    url: /units.html
+  - title: "Github"
+    url: https://github.com/LOEWE-Tree-M
+  - title: "Tree-M home"
+    url: https://www.uni-marburg.de/en/fb17/tree-m
+
+    
+    
+docs:
+  - title: Ways out
+    children:
+      - title: "Documentation Units"
+        url: /units.html
+      - title: "Tree-M home"
+        url: https://www.uni-marburg.de/en/fb17/tree-m
