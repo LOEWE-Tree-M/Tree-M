@@ -9,7 +9,7 @@ header:
 ---
 
 Information on the two measuring towers to be built in the Marburg Open Forest will follow. 
-
+<!--more-->
 To shorted the time - maybe read a book?
 
 [![](https://pictures.abebooks.com/isbn/9780345339713-de.jpg)](https://pictures.abebooks.com/isbn/9780345339713-de.jpg)

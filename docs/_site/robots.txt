@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/LOEWE-Tree-M/sitemap.xml
+Sitemap: http://localhost:4000/Tree-M/sitemap.xml

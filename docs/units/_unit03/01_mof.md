@@ -10,3 +10,4 @@ header:
 
 
 {% include media url="assets/leaflets/mof.html" %} [Full screen version of the map]({{ site.baseurl }}assets/leaflets/mof.html){:target="_blank"}
+<!--more-->
