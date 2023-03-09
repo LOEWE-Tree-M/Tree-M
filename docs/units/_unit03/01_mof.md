@@ -9,5 +9,5 @@ header:
 ---
 
 
-{% include media url="assets/leaflets/mof.html" %} [Full screen version of the map]({{ site.baseurl }}assets/leaflets/mof.html){:target="_blank"}
+{% include media url="assets/leaflets/streets_mof.html" %} [Full screen version of the map]({{ site.baseurl }}assets/leaflets/mof.html){:target="_blank"}
 <!--more-->
